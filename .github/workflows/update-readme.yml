@@ -9,29 +9,53 @@ jobs:
   update:
     runs-on: ubuntu-latest
 
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v4
+    permissions:
+      contents: write
 
-      - name: Count LeetCode Solutions
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Read stats.json
+        id: stats
         run: |
-          TOTAL=$(find . -name "*.cpp" | wc -l)
-          echo "TOTAL=$TOTAL" >> $GITHUB_ENV
+          SOLVED=$(python3 -c "import json;print(json.load(open('stats.json'))['leetcode']['solved'])")
+          EASY=$(python3 -c "import json;print(json.load(open('stats.json'))['leetcode']['easy'])")
+          MEDIUM=$(python3 -c "import json;print(json.load(open('stats.json'))['leetcode']['medium'])")
+          HARD=$(python3 -c "import json;print(json.load(open('stats.json'))['leetcode']['hard'])")
+
+          PERCENT=$((SOLVED*100/1000))
+
+          FILLED=$((PERCENT/10))
+          EMPTY=$((10-FILLED))
+
+          BAR=$(printf '█%.0s' $(seq 1 $FILLED))
+          SPACE=$(printf '░%.0s' $(seq 1 $EMPTY))
+
+          echo "SOLVED=$SOLVED" >> $GITHUB_ENV
+          echo "EASY=$EASY" >> $GITHUB_ENV
+          echo "MEDIUM=$MEDIUM" >> $GITHUB_ENV
+          echo "HARD=$HARD" >> $GITHUB_ENV
+          echo "BAR=$BAR$SPACE $PERCENT%" >> $GITHUB_ENV
 
       - name: Update README
         run: |
-          sed -i "s/<!--TOTAL-->.*<!--TOTAL-->/<!--TOTAL-->$TOTAL<!--TOTAL-->/" README.md
+          sed -i "s/<!--SOLVED-->.*<!--SOLVED-->/<!--SOLVED-->$SOLVED<!--SOLVED-->/" README.md
+          sed -i "s/<!--EASY-->.*<!--EASY-->/<!--EASY-->$EASY<!--EASY-->/" README.md
+          sed -i "s/<!--MEDIUM-->.*<!--MEDIUM-->/<!--MEDIUM-->$MEDIUM<!--MEDIUM-->/" README.md
+          sed -i "s/<!--HARD-->.*<!--HARD-->/<!--HARD-->$HARD<!--HARD-->/" README.md
+          sed -i "/<!--PROGRESS-->/, /<!--PROGRESS-->/c\\<!--PROGRESS-->\\
+\`\`\`text\\
+$BAR\\
+\`\`\`\\
+<!--PROGRESS-->" README.md
 
-      - name: Commit Changes
+      - name: Commit
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
+          git config user.name github-actions
+          git config user.email github-actions@github.com
 
           git add README.md
 
-          if git diff --cached --quiet; then
-            echo "No changes"
-          else
-            git commit -m "Update README progress"
-            git push
-          fi
+          git diff --cached --quiet || git commit -m "Update README"
+
+          git push
