@@ -76,4 +76,8 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sabyg147/Leetcode-Progress/tree/master/0011-container-with-most-water) |
+## Math
+|  |
+| ------- |
+| [1344-angle-between-hands-of-a-clock](https://github.com/sabyg147/Leetcode-Progress/tree/master/1344-angle-between-hands-of-a-clock) |
 <!---LeetCode Topics End-->
