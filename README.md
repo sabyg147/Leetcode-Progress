@@ -99,6 +99,7 @@ Progress
 | [0015-3sum](https://github.com/sabyg147/Leetcode-Progress/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sabyg147/Leetcode-Progress/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sabyg147/Leetcode-Progress/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/sabyg147/Leetcode-Progress/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sabyg147/Leetcode-Progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/sabyg147/Leetcode-Progress/tree/master/0283-move-zeroes) |
 ## Binary Search
@@ -110,4 +111,8 @@ Progress
 | ------- |
 | [0015-3sum](https://github.com/sabyg147/Leetcode-Progress/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sabyg147/Leetcode-Progress/tree/master/0016-3sum-closest) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/sabyg147/Leetcode-Progress/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
