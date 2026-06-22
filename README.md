@@ -63,3 +63,22 @@ Progress
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabyg147&layout=compact&theme=tokyonight)
 
+
+
+## 🔥 LeetCode Heatmap
+
+[![LeetCode Heatmap](https://leetcard.jacoblin.cool/4XqqHA6AO8?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/4XqqHA6AO8/)
+
+# 🏆 LeetCode Statistics
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/4XqqHA6AO8?theme=dark&font=Karma&ext=contest)](https://leetcode.com/u/4XqqHA6AO8/)
+
+## 🔥 Submission Heatmap
+
+[![LeetCode Heatmap](https://leetcard.jacoblin.cool/4XqqHA6AO8?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/4XqqHA6AO8/)
+
+## 📈 Recent Activity
+
+[![LeetCode Activity](https://leetcard.jacoblin.cool/4XqqHA6AO8?theme=dark&font=Karma&ext=activity)](https://leetcode.com/u/4XqqHA6AO8/)
+
+
