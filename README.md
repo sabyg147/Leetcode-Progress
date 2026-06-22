@@ -49,6 +49,7 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sabyg147/Leetcode-Progress/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sabyg147/Leetcode-Progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/sabyg147/Leetcode-Progress/tree/master/0283-move-zeroes) |
+| [1732-find-the-highest-altitude](https://github.com/sabyg147/Leetcode-Progress/tree/master/1732-find-the-highest-altitude) |
 ## Two Pointers
 |  |
 | ------- |
@@ -80,4 +81,8 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 |  |
 | ------- |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sabyg147/Leetcode-Progress/tree/master/1344-angle-between-hands-of-a-clock) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/sabyg147/Leetcode-Progress/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
