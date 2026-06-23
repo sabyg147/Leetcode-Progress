@@ -43,6 +43,7 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sabyg147/Leetcode-Progress/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/sabyg147/Leetcode-Progress/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sabyg147/Leetcode-Progress/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sabyg147/Leetcode-Progress/tree/master/0016-3sum-closest) |
@@ -97,5 +98,6 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sabyg147/Leetcode-Progress/tree/master/0001-two-sum) |
 | [1189-maximum-number-of-balloons](https://github.com/sabyg147/Leetcode-Progress/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
