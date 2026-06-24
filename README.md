@@ -62,6 +62,7 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 | [0125-valid-palindrome](https://github.com/sabyg147/Leetcode-Progress/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sabyg147/Leetcode-Progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/sabyg147/Leetcode-Progress/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/sabyg147/Leetcode-Progress/tree/master/0344-reverse-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -76,6 +77,7 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/sabyg147/Leetcode-Progress/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/sabyg147/Leetcode-Progress/tree/master/0344-reverse-string) |
 | [1189-maximum-number-of-balloons](https://github.com/sabyg147/Leetcode-Progress/tree/master/1189-maximum-number-of-balloons) |
 ## Greedy
 |  |
