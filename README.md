@@ -49,6 +49,7 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 | [0016-3sum-closest](https://github.com/sabyg147/Leetcode-Progress/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sabyg147/Leetcode-Progress/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sabyg147/Leetcode-Progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/sabyg147/Leetcode-Progress/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sabyg147/Leetcode-Progress/tree/master/0283-move-zeroes) |
 | [1732-find-the-highest-altitude](https://github.com/sabyg147/Leetcode-Progress/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/sabyg147/Leetcode-Progress/tree/master/1833-maximum-ice-cream-bars) |
@@ -67,11 +68,13 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sabyg147/Leetcode-Progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/sabyg147/Leetcode-Progress/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sabyg147/Leetcode-Progress/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sabyg147/Leetcode-Progress/tree/master/0016-3sum-closest) |
+| [0268-missing-number](https://github.com/sabyg147/Leetcode-Progress/tree/master/0268-missing-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/sabyg147/Leetcode-Progress/tree/master/1833-maximum-ice-cream-bars) |
 ## String
 |  |
@@ -87,6 +90,7 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/sabyg147/Leetcode-Progress/tree/master/0268-missing-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sabyg147/Leetcode-Progress/tree/master/1344-angle-between-hands-of-a-clock) |
 ## Prefix Sum
 |  |
@@ -101,5 +105,10 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sabyg147/Leetcode-Progress/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/sabyg147/Leetcode-Progress/tree/master/0268-missing-number) |
 | [1189-maximum-number-of-balloons](https://github.com/sabyg147/Leetcode-Progress/tree/master/1189-maximum-number-of-balloons) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/sabyg147/Leetcode-Progress/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
