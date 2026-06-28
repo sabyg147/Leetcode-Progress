@@ -52,6 +52,7 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 | [0209-minimum-size-subarray-sum](https://github.com/sabyg147/Leetcode-Progress/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/sabyg147/Leetcode-Progress/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sabyg147/Leetcode-Progress/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/sabyg147/Leetcode-Progress/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/sabyg147/Leetcode-Progress/tree/master/0904-fruit-into-baskets) |
 | [1732-find-the-highest-altitude](https://github.com/sabyg147/Leetcode-Progress/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/sabyg147/Leetcode-Progress/tree/master/1833-maximum-ice-cream-bars) |
@@ -123,5 +124,6 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sabyg147/Leetcode-Progress/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/sabyg147/Leetcode-Progress/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/sabyg147/Leetcode-Progress/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/sabyg147/Leetcode-Progress/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
