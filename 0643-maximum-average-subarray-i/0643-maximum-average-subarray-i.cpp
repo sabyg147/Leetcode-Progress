@@ -14,10 +14,13 @@ public:
 
         int maxSum = sum;
 
-        while (high < n - 1) {
+        while (high < n) {
 
             low++;
             high++;
+
+            if(high == n)
+                break;
 
             sum -= nums[low - 1];
             sum += nums[high];
