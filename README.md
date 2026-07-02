@@ -98,6 +98,7 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 | ------- |
 | [0007-reverse-integer](https://github.com/sabyg147/Leetcode-Progress/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sabyg147/Leetcode-Progress/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/sabyg147/Leetcode-Progress/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/sabyg147/Leetcode-Progress/tree/master/0268-missing-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sabyg147/Leetcode-Progress/tree/master/1344-angle-between-hands-of-a-clock) |
 ## Prefix Sum
@@ -131,4 +132,8 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 | [0209-minimum-size-subarray-sum](https://github.com/sabyg147/Leetcode-Progress/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/sabyg147/Leetcode-Progress/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/sabyg147/Leetcode-Progress/tree/master/0904-fruit-into-baskets) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/sabyg147/Leetcode-Progress/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
