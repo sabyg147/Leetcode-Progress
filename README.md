@@ -12,20 +12,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Metric | Count |
 |--------|------:|
-| 🎯 Total Solved | <!--SOLVED-->0<!--SOLVED--> |
-| 🟢 Easy | <!--EASY-->0<!--EASY--> |
-| 🟠 Medium | <!--MEDIUM-->0<!--MEDIUM--> |
-| 🔴 Hard | <!--HARD-->0<!--HARD--> |
+| 🎯 Total Solved | <!--SOLVED-->32<!--SOLVED--> |
+| 🟢 Easy | <!--EASY-->15<!--EASY--> |
+| 🟠 Medium | <!--MEDIUM-->15<!--MEDIUM--> |
+| 🔴 Hard | <!--HARD-->2<!--HARD--> |
 
 ---
 
-## 🎯 Goal
-
-```text
-<!--PROGRESS-->
-□□□□□□□□□□□□□□ 0%
-<!--PROGRESS-->
-```
 
 ---
 
