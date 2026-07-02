@@ -12,7 +12,7 @@ public:
         
         
             
-            while(power>0)
+            while(power>0){
             if (power % 2 == 1){
                 ans = ans * x;
                 power = power-1;
@@ -22,7 +22,7 @@ public:
                 power=power/2;
             }
 
-        
+            }
         
 
         return ans;
