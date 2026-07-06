@@ -74,6 +74,7 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 | ------- |
 | [0015-3sum](https://github.com/sabyg147/Leetcode-Progress/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sabyg147/Leetcode-Progress/tree/master/0016-3sum-closest) |
+| [0242-valid-anagram](https://github.com/sabyg147/Leetcode-Progress/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sabyg147/Leetcode-Progress/tree/master/0268-missing-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/sabyg147/Leetcode-Progress/tree/master/1833-maximum-ice-cream-bars) |
 ## String
@@ -82,6 +83,7 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 | [0003-longest-substring-without-repeating-characters](https://github.com/sabyg147/Leetcode-Progress/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/sabyg147/Leetcode-Progress/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/sabyg147/Leetcode-Progress/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/sabyg147/Leetcode-Progress/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sabyg147/Leetcode-Progress/tree/master/0344-reverse-string) |
 | [1189-maximum-number-of-balloons](https://github.com/sabyg147/Leetcode-Progress/tree/master/1189-maximum-number-of-balloons) |
 ## Greedy
@@ -117,6 +119,7 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 | [0003-longest-substring-without-repeating-characters](https://github.com/sabyg147/Leetcode-Progress/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/sabyg147/Leetcode-Progress/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/sabyg147/Leetcode-Progress/tree/master/0076-minimum-window-substring) |
+| [0242-valid-anagram](https://github.com/sabyg147/Leetcode-Progress/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sabyg147/Leetcode-Progress/tree/master/0268-missing-number) |
 | [0904-fruit-into-baskets](https://github.com/sabyg147/Leetcode-Progress/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/sabyg147/Leetcode-Progress/tree/master/1189-maximum-number-of-balloons) |
