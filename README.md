@@ -42,6 +42,7 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 | [0016-3sum-closest](https://github.com/sabyg147/Leetcode-Progress/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sabyg147/Leetcode-Progress/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/sabyg147/Leetcode-Progress/tree/master/0041-first-missing-positive) |
+| [0066-plus-one](https://github.com/sabyg147/Leetcode-Progress/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sabyg147/Leetcode-Progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/sabyg147/Leetcode-Progress/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/sabyg147/Leetcode-Progress/tree/master/0209-minimum-size-subarray-sum) |
@@ -94,6 +95,7 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 | [0007-reverse-integer](https://github.com/sabyg147/Leetcode-Progress/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sabyg147/Leetcode-Progress/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/sabyg147/Leetcode-Progress/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/sabyg147/Leetcode-Progress/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/sabyg147/Leetcode-Progress/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/sabyg147/Leetcode-Progress/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/sabyg147/Leetcode-Progress/tree/master/0509-fibonacci-number) |
