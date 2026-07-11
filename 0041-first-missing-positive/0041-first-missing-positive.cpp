@@ -7,7 +7,7 @@ public:
        for(int i =0; i<n;i++){
 
         // for loop , check each element and swap them in their correct position
-        while(nums[i]>0 && nums[i]<n && nums[i] != nums[nums[i]-1]){
+        while(nums[i]>0 && nums[i]<=n && nums[i] != nums[nums[i]-1]){
             // ignore negative , check no is present inside the range , check whether number is already present in its correct position
 
             swap(nums[i],nums[nums[i]-1]);
