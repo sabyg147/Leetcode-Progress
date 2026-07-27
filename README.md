@@ -44,6 +44,7 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 | [0031-next-permutation](https://github.com/sabyg147/Leetcode-Progress/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/sabyg147/Leetcode-Progress/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/sabyg147/Leetcode-Progress/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/sabyg147/Leetcode-Progress/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/sabyg147/Leetcode-Progress/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sabyg147/Leetcode-Progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/sabyg147/Leetcode-Progress/tree/master/0204-count-primes) |
@@ -177,9 +178,14 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/sabyg147/Leetcode-Progress/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/sabyg147/Leetcode-Progress/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/sabyg147/Leetcode-Progress/tree/master/0509-fibonacci-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/sabyg147/Leetcode-Progress/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
