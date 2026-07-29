@@ -59,6 +59,7 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 | [0904-fruit-into-baskets](https://github.com/sabyg147/Leetcode-Progress/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sabyg147/Leetcode-Progress/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/sabyg147/Leetcode-Progress/tree/master/1004-max-consecutive-ones-iii) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sabyg147/Leetcode-Progress/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1732-find-the-highest-altitude](https://github.com/sabyg147/Leetcode-Progress/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/sabyg147/Leetcode-Progress/tree/master/1833-maximum-ice-cream-bars) |
 ## Two Pointers
@@ -182,6 +183,7 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 | [0053-maximum-subarray](https://github.com/sabyg147/Leetcode-Progress/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/sabyg147/Leetcode-Progress/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/sabyg147/Leetcode-Progress/tree/master/0509-fibonacci-number) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sabyg147/Leetcode-Progress/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Memoization
 |  |
 | ------- |
