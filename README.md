@@ -96,6 +96,7 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sabyg147/Leetcode-Progress/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/sabyg147/Leetcode-Progress/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/sabyg147/Leetcode-Progress/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/sabyg147/Leetcode-Progress/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/sabyg147/Leetcode-Progress/tree/master/0125-valid-palindrome) |
@@ -181,6 +182,7 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sabyg147/Leetcode-Progress/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/sabyg147/Leetcode-Progress/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/sabyg147/Leetcode-Progress/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/sabyg147/Leetcode-Progress/tree/master/0509-fibonacci-number) |
@@ -194,4 +196,12 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sabyg147/Leetcode-Progress/tree/master/0053-maximum-subarray) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/sabyg147/Leetcode-Progress/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/sabyg147/Leetcode-Progress/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
