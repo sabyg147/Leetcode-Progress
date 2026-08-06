@@ -18,7 +18,7 @@ public:
     }
     vector<vector<int>> subsets(vector<int>& nums) {
         int n =nums.size();
-        sort(nums.begin(),nums.end());
+        
         vector<int> tmp;
         vector<vector<int>> res; ;
         soln(nums,0,n,tmp,res);
