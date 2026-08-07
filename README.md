@@ -213,4 +213,8 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sabyg147/Leetcode-Progress/tree/master/0022-generate-parentheses) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/sabyg147/Leetcode-Progress/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
