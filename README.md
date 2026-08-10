@@ -50,6 +50,7 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 | [0066-plus-one](https://github.com/sabyg147/Leetcode-Progress/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/sabyg147/Leetcode-Progress/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sabyg147/Leetcode-Progress/tree/master/0090-subsets-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sabyg147/Leetcode-Progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/sabyg147/Leetcode-Progress/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sabyg147/Leetcode-Progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/sabyg147/Leetcode-Progress/tree/master/0204-count-primes) |
@@ -192,6 +193,7 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 | ------- |
 | [0022-generate-parentheses](https://github.com/sabyg147/Leetcode-Progress/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/sabyg147/Leetcode-Progress/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sabyg147/Leetcode-Progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/sabyg147/Leetcode-Progress/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/sabyg147/Leetcode-Progress/tree/master/0509-fibonacci-number) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sabyg147/Leetcode-Progress/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
