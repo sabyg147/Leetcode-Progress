@@ -8,14 +8,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 ---
 
-## 📊 Overall Progress
-
-| Metric | Count |
-|--------|------:|
-| 🎯 Total Solved | <!--SOLVED-->32<!--SOLVED--> |
-| 🟢 Easy | <!--EASY-->15<!--EASY--> |
-| 🟠 Medium | <!--MEDIUM-->15<!--MEDIUM--> |
-| 🔴 Hard | <!--HARD-->3<!--HARD--> |
 
 ---
 
