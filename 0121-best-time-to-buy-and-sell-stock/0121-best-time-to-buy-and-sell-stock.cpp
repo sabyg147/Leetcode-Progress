@@ -9,7 +9,7 @@ public:
         for(int i =0;i<prices.size()-1;i++){
         diff.push_back( prices[i+1]-prices[i]);
         }
-        // DIFF ARRAY IS CREATED , FROM HERE USE KADANES TO FIND MAX SUBARRAY SUM
+        // DIFF ARRAY IS CREATED , FROM HERE USE KADANES TO FIND MAX SUBARRAY SUM WHICH WILL GIVE MAXIMUM PROFIT 
 
 
 
