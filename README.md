@@ -45,6 +45,7 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sabyg147/Leetcode-Progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/sabyg147/Leetcode-Progress/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sabyg147/Leetcode-Progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/sabyg147/Leetcode-Progress/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/sabyg147/Leetcode-Progress/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/sabyg147/Leetcode-Progress/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/sabyg147/Leetcode-Progress/tree/master/0268-missing-number) |
@@ -88,6 +89,7 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 | [0015-3sum](https://github.com/sabyg147/Leetcode-Progress/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sabyg147/Leetcode-Progress/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/sabyg147/Leetcode-Progress/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/sabyg147/Leetcode-Progress/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/sabyg147/Leetcode-Progress/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sabyg147/Leetcode-Progress/tree/master/0268-missing-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/sabyg147/Leetcode-Progress/tree/master/1833-maximum-ice-cream-bars) |
@@ -134,6 +136,7 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sabyg147/Leetcode-Progress/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/sabyg147/Leetcode-Progress/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/sabyg147/Leetcode-Progress/tree/master/1833-maximum-ice-cream-bars) |
 ## Hash Table
@@ -145,6 +148,7 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 | [0041-first-missing-positive](https://github.com/sabyg147/Leetcode-Progress/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/sabyg147/Leetcode-Progress/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/sabyg147/Leetcode-Progress/tree/master/0076-minimum-window-substring) |
+| [0169-majority-element](https://github.com/sabyg147/Leetcode-Progress/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/sabyg147/Leetcode-Progress/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sabyg147/Leetcode-Progress/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/sabyg147/Leetcode-Progress/tree/master/0424-longest-repeating-character-replacement) |
@@ -200,6 +204,7 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sabyg147/Leetcode-Progress/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/sabyg147/Leetcode-Progress/tree/master/0169-majority-element) |
 ## Backtracking
 |  |
 | ------- |
@@ -218,4 +223,8 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/sabyg147/Leetcode-Progress/tree/master/0176-second-highest-salary) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sabyg147/Leetcode-Progress/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
