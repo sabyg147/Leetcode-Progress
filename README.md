@@ -57,6 +57,7 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 | [0643-maximum-average-subarray-i](https://github.com/sabyg147/Leetcode-Progress/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/sabyg147/Leetcode-Progress/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/sabyg147/Leetcode-Progress/tree/master/0724-find-pivot-index) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/sabyg147/Leetcode-Progress/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0904-fruit-into-baskets](https://github.com/sabyg147/Leetcode-Progress/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sabyg147/Leetcode-Progress/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/sabyg147/Leetcode-Progress/tree/master/1004-max-consecutive-ones-iii) |
@@ -85,6 +86,7 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 | [0209-minimum-size-subarray-sum](https://github.com/sabyg147/Leetcode-Progress/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/sabyg147/Leetcode-Progress/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/sabyg147/Leetcode-Progress/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/sabyg147/Leetcode-Progress/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/sabyg147/Leetcode-Progress/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
 |  |
@@ -242,4 +244,8 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/sabyg147/Leetcode-Progress/tree/master/0451-sort-characters-by-frequency) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/sabyg147/Leetcode-Progress/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
