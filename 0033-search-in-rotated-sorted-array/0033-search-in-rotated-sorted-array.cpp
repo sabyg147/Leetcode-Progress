@@ -39,13 +39,13 @@ public:
                     else if(nums[guess]<target){
                         //GREATER ELEMENT CAN LIE ON BOTH RIGHT AND LEFT
 
-                        if(nums[n-1]>=target){
+                        if(nums[n-1]<target){
                             // Target lies in the part 1 , so move right 
-                            low = guess + 1;
+                            high = guess -1;
                 
                         }
                         else
-                            high = guess - 1;
+                            low = guess + 1;
                     }
             }
         }
