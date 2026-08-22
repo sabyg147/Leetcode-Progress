@@ -1,5 +1,9 @@
 class Solution {
 public:
+
+//EXACTLY SIMILAR TO AGGRESIVE COWS 
+
+
     int fun(vector<int>& pos, int m , int guess){
         int balls = 1;
         int posn = pos[0];
