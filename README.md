@@ -66,6 +66,7 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 | [0974-subarray-sums-divisible-by-k](https://github.com/sabyg147/Leetcode-Progress/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/sabyg147/Leetcode-Progress/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sabyg147/Leetcode-Progress/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1552-magnetic-force-between-two-balls](https://github.com/sabyg147/Leetcode-Progress/tree/master/1552-magnetic-force-between-two-balls) |
 | [1732-find-the-highest-altitude](https://github.com/sabyg147/Leetcode-Progress/tree/master/1732-find-the-highest-altitude) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/sabyg147/Leetcode-Progress/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1833-maximum-ice-cream-bars](https://github.com/sabyg147/Leetcode-Progress/tree/master/1833-maximum-ice-cream-bars) |
@@ -96,6 +97,7 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 | [0852-peak-index-in-a-mountain-array](https://github.com/sabyg147/Leetcode-Progress/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/sabyg147/Leetcode-Progress/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/sabyg147/Leetcode-Progress/tree/master/1004-max-consecutive-ones-iii) |
+| [1552-magnetic-force-between-two-balls](https://github.com/sabyg147/Leetcode-Progress/tree/master/1552-magnetic-force-between-two-balls) |
 ## Sorting
 |  |
 | ------- |
@@ -106,6 +108,7 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 | [0242-valid-anagram](https://github.com/sabyg147/Leetcode-Progress/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sabyg147/Leetcode-Progress/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/sabyg147/Leetcode-Progress/tree/master/0451-sort-characters-by-frequency) |
+| [1552-magnetic-force-between-two-balls](https://github.com/sabyg147/Leetcode-Progress/tree/master/1552-magnetic-force-between-two-balls) |
 | [1833-maximum-ice-cream-bars](https://github.com/sabyg147/Leetcode-Progress/tree/master/1833-maximum-ice-cream-bars) |
 ## String
 |  |
