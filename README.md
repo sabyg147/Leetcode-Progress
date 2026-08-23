@@ -42,6 +42,7 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 | [0049-group-anagrams](https://github.com/sabyg147/Leetcode-Progress/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sabyg147/Leetcode-Progress/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/sabyg147/Leetcode-Progress/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/sabyg147/Leetcode-Progress/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/sabyg147/Leetcode-Progress/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sabyg147/Leetcode-Progress/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sabyg147/Leetcode-Progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -88,6 +89,7 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sabyg147/Leetcode-Progress/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sabyg147/Leetcode-Progress/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/sabyg147/Leetcode-Progress/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sabyg147/Leetcode-Progress/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/sabyg147/Leetcode-Progress/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sabyg147/Leetcode-Progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -259,4 +261,8 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sabyg147/Leetcode-Progress/tree/master/0852-peak-index-in-a-mountain-array) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/sabyg147/Leetcode-Progress/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
