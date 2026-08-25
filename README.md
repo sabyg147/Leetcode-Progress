@@ -67,6 +67,7 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 | [0904-fruit-into-baskets](https://github.com/sabyg147/Leetcode-Progress/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sabyg147/Leetcode-Progress/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/sabyg147/Leetcode-Progress/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/sabyg147/Leetcode-Progress/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sabyg147/Leetcode-Progress/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1552-magnetic-force-between-two-balls](https://github.com/sabyg147/Leetcode-Progress/tree/master/1552-magnetic-force-between-two-balls) |
 | [1732-find-the-highest-altitude](https://github.com/sabyg147/Leetcode-Progress/tree/master/1732-find-the-highest-altitude) |
@@ -101,6 +102,7 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 | [0852-peak-index-in-a-mountain-array](https://github.com/sabyg147/Leetcode-Progress/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/sabyg147/Leetcode-Progress/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/sabyg147/Leetcode-Progress/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/sabyg147/Leetcode-Progress/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1552-magnetic-force-between-two-balls](https://github.com/sabyg147/Leetcode-Progress/tree/master/1552-magnetic-force-between-two-balls) |
 ## Sorting
 |  |
