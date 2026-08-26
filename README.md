@@ -130,6 +130,7 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 | [0345-reverse-vowels-of-a-string](https://github.com/sabyg147/Leetcode-Progress/tree/master/0345-reverse-vowels-of-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/sabyg147/Leetcode-Progress/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/sabyg147/Leetcode-Progress/tree/master/0451-sort-characters-by-frequency) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sabyg147/Leetcode-Progress/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/sabyg147/Leetcode-Progress/tree/master/1189-maximum-number-of-balloons) |
 ## Greedy
 |  |
@@ -272,4 +273,8 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/sabyg147/Leetcode-Progress/tree/master/0074-search-a-2d-matrix) |
+## Stack
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sabyg147/Leetcode-Progress/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
