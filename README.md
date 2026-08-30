@@ -62,6 +62,7 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 | [0643-maximum-average-subarray-i](https://github.com/sabyg147/Leetcode-Progress/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/sabyg147/Leetcode-Progress/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/sabyg147/Leetcode-Progress/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/sabyg147/Leetcode-Progress/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sabyg147/Leetcode-Progress/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/sabyg147/Leetcode-Progress/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/sabyg147/Leetcode-Progress/tree/master/0904-fruit-into-baskets) |
@@ -279,5 +280,10 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sabyg147/Leetcode-Progress/tree/master/0020-valid-parentheses) |
+| [0739-daily-temperatures](https://github.com/sabyg147/Leetcode-Progress/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sabyg147/Leetcode-Progress/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/sabyg147/Leetcode-Progress/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
