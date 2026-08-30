@@ -70,6 +70,7 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 | [1004-max-consecutive-ones-iii](https://github.com/sabyg147/Leetcode-Progress/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sabyg147/Leetcode-Progress/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sabyg147/Leetcode-Progress/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sabyg147/Leetcode-Progress/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1552-magnetic-force-between-two-balls](https://github.com/sabyg147/Leetcode-Progress/tree/master/1552-magnetic-force-between-two-balls) |
 | [1732-find-the-highest-altitude](https://github.com/sabyg147/Leetcode-Progress/tree/master/1732-find-the-highest-altitude) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/sabyg147/Leetcode-Progress/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -282,8 +283,10 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 | [0020-valid-parentheses](https://github.com/sabyg147/Leetcode-Progress/tree/master/0020-valid-parentheses) |
 | [0739-daily-temperatures](https://github.com/sabyg147/Leetcode-Progress/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sabyg147/Leetcode-Progress/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sabyg147/Leetcode-Progress/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/sabyg147/Leetcode-Progress/tree/master/0739-daily-temperatures) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sabyg147/Leetcode-Progress/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
