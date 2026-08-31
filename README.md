@@ -136,6 +136,7 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 | [0451-sort-characters-by-frequency](https://github.com/sabyg147/Leetcode-Progress/tree/master/0451-sort-characters-by-frequency) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sabyg147/Leetcode-Progress/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/sabyg147/Leetcode-Progress/tree/master/1189-maximum-number-of-balloons) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/sabyg147/Leetcode-Progress/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -285,6 +286,7 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 | [0503-next-greater-element-ii](https://github.com/sabyg147/Leetcode-Progress/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/sabyg147/Leetcode-Progress/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sabyg147/Leetcode-Progress/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/sabyg147/Leetcode-Progress/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sabyg147/Leetcode-Progress/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
