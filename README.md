@@ -44,6 +44,7 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 | [0066-plus-one](https://github.com/sabyg147/Leetcode-Progress/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/sabyg147/Leetcode-Progress/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/sabyg147/Leetcode-Progress/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/sabyg147/Leetcode-Progress/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/sabyg147/Leetcode-Progress/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sabyg147/Leetcode-Progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/sabyg147/Leetcode-Progress/tree/master/0152-maximum-product-subarray) |
@@ -283,6 +284,7 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sabyg147/Leetcode-Progress/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/sabyg147/Leetcode-Progress/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/sabyg147/Leetcode-Progress/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/sabyg147/Leetcode-Progress/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sabyg147/Leetcode-Progress/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -291,7 +293,12 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/sabyg147/Leetcode-Progress/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/sabyg147/Leetcode-Progress/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/sabyg147/Leetcode-Progress/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sabyg147/Leetcode-Progress/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/sabyg147/Leetcode-Progress/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
