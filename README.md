@@ -56,6 +56,7 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 | [0209-minimum-size-subarray-sum](https://github.com/sabyg147/Leetcode-Progress/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/sabyg147/Leetcode-Progress/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sabyg147/Leetcode-Progress/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/sabyg147/Leetcode-Progress/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/sabyg147/Leetcode-Progress/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/sabyg147/Leetcode-Progress/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/sabyg147/Leetcode-Progress/tree/master/0503-next-greater-element-ii) |
@@ -90,6 +91,7 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 | [0142-linked-list-cycle-ii](https://github.com/sabyg147/Leetcode-Progress/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sabyg147/Leetcode-Progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/sabyg147/Leetcode-Progress/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/sabyg147/Leetcode-Progress/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/sabyg147/Leetcode-Progress/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sabyg147/Leetcode-Progress/tree/master/0345-reverse-vowels-of-a-string) |
 ## Binary Search
@@ -103,6 +105,7 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sabyg147/Leetcode-Progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/sabyg147/Leetcode-Progress/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/sabyg147/Leetcode-Progress/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/sabyg147/Leetcode-Progress/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/sabyg147/Leetcode-Progress/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/sabyg147/Leetcode-Progress/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sabyg147/Leetcode-Progress/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -202,6 +205,7 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 | [0078-subsets](https://github.com/sabyg147/Leetcode-Progress/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sabyg147/Leetcode-Progress/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/sabyg147/Leetcode-Progress/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/sabyg147/Leetcode-Progress/tree/master/0287-find-the-duplicate-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -315,4 +319,9 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sabyg147/Leetcode-Progress/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sabyg147/Leetcode-Progress/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/sabyg147/Leetcode-Progress/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/sabyg147/Leetcode-Progress/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
