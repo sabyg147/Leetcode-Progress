@@ -90,6 +90,7 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 | [0141-linked-list-cycle](https://github.com/sabyg147/Leetcode-Progress/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sabyg147/Leetcode-Progress/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sabyg147/Leetcode-Progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/sabyg147/Leetcode-Progress/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/sabyg147/Leetcode-Progress/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sabyg147/Leetcode-Progress/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/sabyg147/Leetcode-Progress/tree/master/0344-reverse-string) |
@@ -156,6 +157,7 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 | [0009-palindrome-number](https://github.com/sabyg147/Leetcode-Progress/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/sabyg147/Leetcode-Progress/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/sabyg147/Leetcode-Progress/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/sabyg147/Leetcode-Progress/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/sabyg147/Leetcode-Progress/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/sabyg147/Leetcode-Progress/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/sabyg147/Leetcode-Progress/tree/master/0509-fibonacci-number) |
@@ -190,6 +192,7 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 | [0141-linked-list-cycle](https://github.com/sabyg147/Leetcode-Progress/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sabyg147/Leetcode-Progress/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/sabyg147/Leetcode-Progress/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/sabyg147/Leetcode-Progress/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/sabyg147/Leetcode-Progress/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sabyg147/Leetcode-Progress/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/sabyg147/Leetcode-Progress/tree/master/0424-longest-repeating-character-replacement) |
@@ -319,6 +322,7 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sabyg147/Leetcode-Progress/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sabyg147/Leetcode-Progress/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/sabyg147/Leetcode-Progress/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/sabyg147/Leetcode-Progress/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
