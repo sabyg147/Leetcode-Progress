@@ -224,6 +224,7 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/sabyg147/Leetcode-Progress/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/sabyg147/Leetcode-Progress/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/sabyg147/Leetcode-Progress/tree/master/0509-fibonacci-number) |
 ## Enumeration
 |  |
@@ -318,6 +319,7 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sabyg147/Leetcode-Progress/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sabyg147/Leetcode-Progress/tree/master/0142-linked-list-cycle-ii) |
+| [0206-reverse-linked-list](https://github.com/sabyg147/Leetcode-Progress/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/sabyg147/Leetcode-Progress/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
