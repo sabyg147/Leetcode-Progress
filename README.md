@@ -223,6 +223,7 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/sabyg147/Leetcode-Progress/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/sabyg147/Leetcode-Progress/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/sabyg147/Leetcode-Progress/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/sabyg147/Leetcode-Progress/tree/master/0509-fibonacci-number) |
@@ -317,6 +318,7 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/sabyg147/Leetcode-Progress/tree/master/0024-swap-nodes-in-pairs) |
 | [0092-reverse-linked-list-ii](https://github.com/sabyg147/Leetcode-Progress/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/sabyg147/Leetcode-Progress/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sabyg147/Leetcode-Progress/tree/master/0142-linked-list-cycle-ii) |
