@@ -304,6 +304,7 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 | [0020-valid-parentheses](https://github.com/sabyg147/Leetcode-Progress/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sabyg147/Leetcode-Progress/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sabyg147/Leetcode-Progress/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/sabyg147/Leetcode-Progress/tree/master/0144-binary-tree-preorder-traversal) |
 | [0503-next-greater-element-ii](https://github.com/sabyg147/Leetcode-Progress/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/sabyg147/Leetcode-Progress/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sabyg147/Leetcode-Progress/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -346,12 +347,15 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sabyg147/Leetcode-Progress/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/sabyg147/Leetcode-Progress/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sabyg147/Leetcode-Progress/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/sabyg147/Leetcode-Progress/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sabyg147/Leetcode-Progress/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/sabyg147/Leetcode-Progress/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
