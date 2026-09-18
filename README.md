@@ -356,6 +356,7 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 | [0144-binary-tree-preorder-traversal](https://github.com/sabyg147/Leetcode-Progress/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sabyg147/Leetcode-Progress/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/sabyg147/Leetcode-Progress/tree/master/0226-invert-binary-tree) |
+| [0951-flip-equivalent-binary-trees](https://github.com/sabyg147/Leetcode-Progress/tree/master/0951-flip-equivalent-binary-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -365,6 +366,7 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 | [0144-binary-tree-preorder-traversal](https://github.com/sabyg147/Leetcode-Progress/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sabyg147/Leetcode-Progress/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/sabyg147/Leetcode-Progress/tree/master/0226-invert-binary-tree) |
+| [0951-flip-equivalent-binary-trees](https://github.com/sabyg147/Leetcode-Progress/tree/master/0951-flip-equivalent-binary-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -377,6 +379,7 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 | [0144-binary-tree-preorder-traversal](https://github.com/sabyg147/Leetcode-Progress/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sabyg147/Leetcode-Progress/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/sabyg147/Leetcode-Progress/tree/master/0226-invert-binary-tree) |
+| [0951-flip-equivalent-binary-trees](https://github.com/sabyg147/Leetcode-Progress/tree/master/0951-flip-equivalent-binary-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
