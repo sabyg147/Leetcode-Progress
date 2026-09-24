@@ -19,6 +19,7 @@ public:
 
             if(root->left==NULL && root->right==NULL){
                 res = res + sum;
+                return;
             }
 
             else{
