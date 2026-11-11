@@ -72,6 +72,7 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 | [0875-koko-eating-bananas](https://github.com/sabyg147/Leetcode-Progress/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/sabyg147/Leetcode-Progress/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sabyg147/Leetcode-Progress/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0977-squares-of-a-sorted-array](https://github.com/sabyg147/Leetcode-Progress/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/sabyg147/Leetcode-Progress/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sabyg147/Leetcode-Progress/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sabyg147/Leetcode-Progress/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -100,6 +101,7 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 | [0344-reverse-string](https://github.com/sabyg147/Leetcode-Progress/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sabyg147/Leetcode-Progress/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/sabyg147/Leetcode-Progress/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/sabyg147/Leetcode-Progress/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -130,6 +132,7 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 | [0242-valid-anagram](https://github.com/sabyg147/Leetcode-Progress/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sabyg147/Leetcode-Progress/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/sabyg147/Leetcode-Progress/tree/master/0451-sort-characters-by-frequency) |
+| [0977-squares-of-a-sorted-array](https://github.com/sabyg147/Leetcode-Progress/tree/master/0977-squares-of-a-sorted-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/sabyg147/Leetcode-Progress/tree/master/1552-magnetic-force-between-two-balls) |
 | [1833-maximum-ice-cream-bars](https://github.com/sabyg147/Leetcode-Progress/tree/master/1833-maximum-ice-cream-bars) |
 ## String
