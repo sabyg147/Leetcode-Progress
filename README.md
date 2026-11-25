@@ -100,6 +100,7 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 | [0287-find-the-duplicate-number](https://github.com/sabyg147/Leetcode-Progress/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/sabyg147/Leetcode-Progress/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sabyg147/Leetcode-Progress/tree/master/0345-reverse-vowels-of-a-string) |
+| [0567-permutation-in-string](https://github.com/sabyg147/Leetcode-Progress/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/sabyg147/Leetcode-Progress/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/sabyg147/Leetcode-Progress/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
@@ -150,6 +151,7 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 | [0345-reverse-vowels-of-a-string](https://github.com/sabyg147/Leetcode-Progress/tree/master/0345-reverse-vowels-of-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/sabyg147/Leetcode-Progress/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/sabyg147/Leetcode-Progress/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/sabyg147/Leetcode-Progress/tree/master/0567-permutation-in-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sabyg147/Leetcode-Progress/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/sabyg147/Leetcode-Progress/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/sabyg147/Leetcode-Progress/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -209,6 +211,7 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 | [0451-sort-characters-by-frequency](https://github.com/sabyg147/Leetcode-Progress/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/sabyg147/Leetcode-Progress/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sabyg147/Leetcode-Progress/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/sabyg147/Leetcode-Progress/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/sabyg147/Leetcode-Progress/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sabyg147/Leetcode-Progress/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/sabyg147/Leetcode-Progress/tree/master/1189-maximum-number-of-balloons) |
@@ -226,6 +229,7 @@ Every accepted LeetCode problem is automatically pushed here using **LeetHub v2*
 | [0076-minimum-window-substring](https://github.com/sabyg147/Leetcode-Progress/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/sabyg147/Leetcode-Progress/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/sabyg147/Leetcode-Progress/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/sabyg147/Leetcode-Progress/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/sabyg147/Leetcode-Progress/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/sabyg147/Leetcode-Progress/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/sabyg147/Leetcode-Progress/tree/master/1004-max-consecutive-ones-iii) |
